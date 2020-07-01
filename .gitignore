@@ -90,4 +90,4 @@ sw.*
 *.swp
 
 #firebase apikey ignore
-firebaseConfig.json
+firebaseConfig
